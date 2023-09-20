@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NUMAD23Fa_ShuxinZhang</string>
+    <string name="app_title">Hello World</string>
+    <string name="btntxt_login">About Me</string>
+    <string name="txt_forgotpsw">Forgot Password</string>
+    <string name="txt_noaccount">Do not have account ?</string>
+    <string name="txt_signup">Sign Up</string>
+</resources>
